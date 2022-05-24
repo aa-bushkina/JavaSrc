@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3da1578a-f9c0-4334-9228-f4ee36b27a43" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/filter/CustomAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/filter/CustomAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/filter/CustomAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/filter/CustomAuthorizationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/service/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/service/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/service/EntryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/service/EntryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main/service/BookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/service/BookServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/service/UserServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/controller/BookTypeController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/controller/ClientController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/service/BookTypeService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/service/BookService.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/service/ClientServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/entity/Client.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/service/BookTypeServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Main/repository/EntryRepository.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="25kem4UF0fuRcaNPJNfJK6spl58" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Main/repositorye" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alena\IdeaProjects\libraryApp\src\main\java\Main\repositorye" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alena\IdeaProjects\libraryApp\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Main.exception" />
+      <recent name="Main.controller" />
+      <recent name="service" />
+      <recent name="Main.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="libraryApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Main.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3da1578a-f9c0-4334-9228-f4ee36b27a43" name="Changes" comment="" />
+      <created>1646075670009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646075670009</updated>
+      <workItem from="1646075672478" duration="13048000" />
+      <workItem from="1646587523816" duration="23058000" />
+      <workItem from="1646692318111" duration="2007000" />
+      <workItem from="1647200001818" duration="10497000" />
+      <workItem from="1647218633646" duration="203000" />
+      <workItem from="1647219997505" duration="5925000" />
+      <workItem from="1647300535525" duration="13838000" />
+      <workItem from="1648158439445" duration="26839000" />
+      <workItem from="1648324194916" duration="14193000" />
+      <workItem from="1648470252084" duration="198000" />
+      <workItem from="1648479058741" duration="160000" />
+      <workItem from="1648501693074" duration="11691000" />
+      <workItem from="1650539343038" duration="11304000" />
+      <workItem from="1651702302602" duration="969000" />
+      <workItem from="1651703341648" duration="5783000" />
+      <workItem from="1651713530660" duration="425000" />
+      <workItem from="1651714333408" duration="136000" />
+      <workItem from="1651737798070" duration="671000" />
+      <workItem from="1651923209175" duration="26236000" />
+      <workItem from="1652095819115" duration="6922000" />
+      <workItem from="1652621777930" duration="21456000" />
+      <workItem from="1652824708386" duration="10961000" />
+      <workItem from="1652970843630" duration="4801000" />
+      <workItem from="1653038438092" duration="28549000" />
+      <workItem from="1653139864486" duration="26700000" />
+      <workItem from="1653220749788" duration="8568000" />
+      <workItem from="1653315537321" duration="29324000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1648161274933</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648161274933</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Do add and delete Book methods">
+      <created>1648165500657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648165500657</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add bookType &#10;Add Book&#10;Delete Book">
+      <created>1648171356171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648171356171</updated>
+    </task>
+    <task id="LOCAL-00004" summary="All methods for Book and BookType">
+      <created>1648257065925</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648257065925</updated>
+    </task>
+    <task id="LOCAL-00005" summary="All methods for Client">
+      <created>1648325764148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648325764149</updated>
+    </task>
+    <task id="LOCAL-00006" summary="All methods, test client, book, booktype only">
+      <created>1648345989725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648345989725</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add exception classes&#10;Change path (&quot;/&quot;)">
+      <created>1648512589427</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648512589427</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix exceptions">
+      <created>1648513578677</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648513578677</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix naming, add book in AddEntity method">
+      <created>1650540817924</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650540817924</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Security Maslacov">
+      <created>1651702664801</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651702664801</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Test">
+      <created>1651703555829</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651703555829</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Do security">
+      <created>1652101863755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652101863755</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Rename endpoints">
+      <created>1652649644608</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652649644609</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Replace functions in Entities with loombook annotations">
+      <created>1652651429131</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652651429131</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Booktype doesn't change cnt when add/delete entry">
+      <created>1652975073692</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652975073692</updated>
+    </task>
+    <task id="LOCAL-00016" summary="All work">
+      <created>1653150427929</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1653150427929</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Before deleting refresh_token">
+      <created>1653317797144</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1653317797144</updated>
+    </task>
+    <task id="LOCAL-00018" summary="All works">
+      <created>1653346672199</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1653346672199</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:jul-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.xml.bind:jakarta.xml.bind-api" />
+    <option featureType="dependencySupport" implementationName="java:org.javassist:javassist" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-web" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-data-jpa" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:com.zaxxer:HikariCP" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss:jandex" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-aspects" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.dom4j:dom4j" />
+    <option featureType="dependencySupport" implementationName="java:org.aspectj:aspectjweaver" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-beans" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml:classmate" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-core" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.common:hibernate-commons-annotations" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.datatype:jackson-datatype-jsr310" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-config" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:jaxb-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.tomcat.embed:tomcat-embed-websocket" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-jpa" />
+    <option featureType="dependencySupport" implementationName="java:ch.qos.logback:logback-classic" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jaxb:txw2" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-tx" />
+    <option featureType="dependencySupport" implementationName="java:io.jsonwebtoken:jjwt" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jcl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-web" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-aop" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-tomcat" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-annotations" />
+    <option featureType="dependencySupport" implementationName="java:ch.qos.logback:logback-core" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-core" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-databind" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-configuration-processor" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.annotation:jakarta.annotation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:org.jboss.logging:jboss-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-orm" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:slf4j-api" />
+    <option featureType="dependencySupport" implementationName="java:org.yaml:snakeyaml" />
+    <option featureType="dependencySupport" implementationName="java:antlr:antlr" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-autoconfigure" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-context" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-json" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-expression" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.istack:istack-commons-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish:jakarta.el" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-aop" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.datatype:jackson-datatype-jdk8" />
+    <option featureType="dependencySupport" implementationName="java:mysql:mysql-connector-java" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.module:jackson-module-parameter-names" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-web" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.transaction:jakarta.transaction-api" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.activation:jakarta.activation" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot-starter-security" />
+    <option featureType="dependencySupport" implementationName="java:net.bytebuddy:byte-buddy" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Do add and delete Book methods" />
+    <MESSAGE value="Add bookType &#10;Add Book&#10;Delete Book" />
+    <MESSAGE value="All methods for Book and BookType" />
+    <MESSAGE value="All methods for Client" />
+    <MESSAGE value="All methods, test client, book, booktype only" />
+    <MESSAGE value="Add exception classes&#10;Change path (&quot;/&quot;)" />
+    <MESSAGE value="Fix exceptions" />
+    <MESSAGE value="Fix naming, add book in AddEntity method" />
+    <MESSAGE value="Security Maslacov" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Do security" />
+    <MESSAGE value="Rename endpoints" />
+    <MESSAGE value="Replace functions in Entities with loombook annotations" />
+    <MESSAGE value="Booktype doesn't change cnt when add/delete entry" />
+    <MESSAGE value="All work" />
+    <MESSAGE value="Before deleting refresh_token" />
+    <MESSAGE value="All works" />
+    <option name="LAST_COMMIT_MESSAGE" value="All works" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main/service/UserServiceImpl.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main/service/EntryServiceImpl.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
