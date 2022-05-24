@@ -16,7 +16,6 @@ public class EntryController
   @Autowired
   private EntryServiceImpl entryService;
 
-  //GET REQUESTS
   @GetMapping("/all")
   public List<Entry> getAllEntries()
   {
@@ -35,7 +34,6 @@ public class EntryController
     return entryService.getAllEntriesByBook(bookId);
   }
 
-  //POST REQUESTS
   @PostMapping("/entry/add")
   public Entry addEntry(@RequestParam Integer clientId, @RequestParam Integer bookId) throws ParseException
 
@@ -43,14 +41,12 @@ public class EntryController
     return entryService.addEntry(clientId, bookId);
   }
 
-  //UPDATE REQUESTS
   @PutMapping("/entry/update/data-ret")
   Entry updateDataRet(@RequestParam Integer id)
   {
     return entryService.updateDataRet(id);
   }
 
-  //DELETE REQUESTS
   @DeleteMapping("/entry/delete")
   Entry deleteEntry(@RequestParam Integer id)
   {

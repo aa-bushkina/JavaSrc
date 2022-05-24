@@ -1,7 +1,6 @@
 package Main.entity;
 
 import lombok.*;
-import org.springframework.security.core.userdetails.UserDetails;
 
 import javax.persistence.*;
 import java.util.ArrayList;

@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3da1578a-f9c0-4334-9228-f4ee36b27a43" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/controller/BookTypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/controller/BookTypeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/controller/EntryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/controller/EntryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/entity/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main/filter/CustomAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/filter/CustomAuthenticationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/filter/CustomAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/filter/CustomAuthorizationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/service/BookService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main/service/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/service/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main/service/BookTypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/service/BookTypeServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main/service/EntryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/service/EntryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main/service/BookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/service/BookServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/service/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +160,7 @@
       <workItem from="1653038438092" duration="28549000" />
       <workItem from="1653139864486" duration="26700000" />
       <workItem from="1653220749788" duration="8568000" />
-      <workItem from="1653315537321" duration="29324000" />
+      <workItem from="1653315537321" duration="32013000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1648161274933</created>
@@ -369,7 +367,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Security_Youtube" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -411,7 +421,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main/service/EntryServiceImpl.java</url>
-          <line>118</line>
+          <line>117</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>

@@ -14,7 +14,6 @@ public class BookTypeController
   @Autowired
   private BookTypeServiceImpl bookTypeService;
 
-  //GET REQUESTS
   @GetMapping("/all")
   public List<BookType> getAllBookTypes()
   {
@@ -27,14 +26,12 @@ public class BookTypeController
     return bookTypeService.getBookTypeById(id);
   }
 
-  //POST REQUESTS
   @PostMapping("/booktype/add")
   public BookType addBookType(@RequestParam String name, @RequestParam Double fine, @RequestParam Integer day_count)
   {
     return bookTypeService.addBookType(name, fine, day_count);
   }
 
-  //UPDATE REQUESTS
   @PutMapping("/booktype/update/cnt")
   BookType updateBookTypeCnt(@RequestParam Integer id, @RequestParam Integer cnt)
   {
@@ -53,7 +50,6 @@ public class BookTypeController
     return bookTypeService.updateBookTypeDayCount(id, day_count);
   }
 
-  //DELETE REQUESTS
   @DeleteMapping("/booktype/delete")
   BookType deleteBookType(@RequestParam Integer id)
   {

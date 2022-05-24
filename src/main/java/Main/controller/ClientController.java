@@ -14,7 +14,6 @@ public class ClientController
   @Autowired
   private ClientService clientService;
 
-  //GET REQUESTS
   @GetMapping("/all")
   public List<Client> getAllClients()
   {
@@ -27,7 +26,6 @@ public class ClientController
     return clientService.getClientById(id);
   }
 
-  //POST REQUESTS
   @PostMapping("/client/add")
   public Client addClient(@RequestParam String lastName, @RequestParam String firstName,
                           @RequestParam String patherName, @RequestParam String passportSer,
@@ -36,7 +34,6 @@ public class ClientController
     return clientService.addClient(lastName, firstName, patherName, passportSer, passportNum);
   }
 
-  //UPDATE REQUESTS
   @PutMapping("/client/update/passport")
   Client updateClientPassport(@RequestParam Integer id, @RequestParam String passportSer, @RequestParam String passportNum)
   {
@@ -55,7 +52,6 @@ public class ClientController
     return clientService.updateClientLastName(id, lastName);
   }
 
-  //DELETE REQUESTS
   @DeleteMapping("/client/delete")
   Client deleteClient(@RequestParam Integer id)
   {
